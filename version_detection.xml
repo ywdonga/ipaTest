@@ -1,4 +1,4 @@
-<plist version="1.0">
+<plist version="2">
   <dict>
     <key>items</key>
     <array>
@@ -9,19 +9,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://.../xxx.ipa</string>
+            <string>https://github.com/ywdonga/ipaTest/raw/master/Huiguo.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>xxx</string>
+          <string>net.huiguo.huiguo</string>
           <key>bundle-version</key>
-          <string>1.1.0</string>
+          <string>2</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>应用名称</string>
+          <string>会过</string>
         </dict>
       </dict>
     </array>
